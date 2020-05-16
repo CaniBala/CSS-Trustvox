@@ -1,15 +1,9 @@
 ._trustvox_widget_container p.title {
-    font-size: 14px;
     color: #ffffff;
-    font-weight: bold;
-    display: block;
 }
 
 ._trustvox_widget_container .ts-footer {
-    font-size: 14px;
-    color: #ffffff;
-    font-weight: bold;
-    display: block;
+    color: #7f2c8d;
 }
 
 ._trustvox_widget .ts-widget .ts-footer {
