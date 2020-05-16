@@ -1,11 +1,11 @@
-#_trustvox_widget .ts-widget .ts-footer {
+._trustvox_widget .ts-widget .ts-footer {
     background: linear-gradient(90deg,#b13087,#842c8c);
 }/*Muda com do Widget da Trustvox*/
 
-#_trustvox_widget .ts-widget .ts-ldquo, #_trustvox_widget .ts-widget .ts-rdquo {
+._trustvox_widget .ts-widget .ts-ldquo, #_trustvox_widget .ts-widget .ts-rdquo {
     color: #7f2c8d;
 }
 
-#_trustvox_widget .ts-widget .ts-tabs-container .ts-tabs-inside.ts-selected {
+._trustvox_widget .ts-widget .ts-tabs-container .ts-tabs-inside.ts-selected {
     border-top: 3px solid #7f2c8d;
 }
